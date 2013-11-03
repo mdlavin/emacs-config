@@ -5,3 +5,4 @@
 /session.*
 /url/cookies
 *.elc
+/elpa/archives
