@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: node.require
+# key: req
+# --
+`(snippet--require-prefix)`${3:${1:$(s-lower-camel-case (file-name-nondirectory yas/text))}} = require("${1:fs}")$2`(snippet--require-trailer)`$0
