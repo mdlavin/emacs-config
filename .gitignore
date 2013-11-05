@@ -6,3 +6,5 @@
 /url/cookies
 *.elc
 /elpa/archives
+/eshell/history
+/eshell/lastdir
